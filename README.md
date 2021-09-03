@@ -10,7 +10,7 @@ Um dos setores que tiveram que se adaptar a essas novas medidas foi o de assist�
 Todas as informações pertinentes ao desenvolvimento do sistema, como diagramas e tecnologias usadas podem ser consultadas em [DOC](https://github.com/TailsonAlves/Trabalho-Final_Eng.Soft-2021.1/tree/main/doc)
 
 # Deploy
-link youtube
+Uma demonstração resumida do sistema pode ser encontrada clicando [aqui]()
 
 # Equipe
 - Tailson Alves
