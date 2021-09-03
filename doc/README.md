@@ -42,3 +42,22 @@ Informações sobre a UML podem ser encontradas no diretório [UML](https://gith
 
 O protótipo do sistema foi apresentado aos tecnicos da Divisão de Tecnologia da UFC de Sobral pelo aluno Tailson Alves. Ao final da conferência, o sistema passou por diversos testes de caso a fim de encontrar redundâncias, erros ou falta de implementação. Em resumo, o sistema atendeu a maioria dos requisitos, porém apresentou algumas funcionalidades que, embora não impacte no propósito do sistema, seriam opcionais ou não seriam usadas, além de que foi ressaltado a falta da implementação do recurso de confirmação de conclusão de chamado através do email.
 
+# Funcionalidades do Sistema
+## Usuário comum
+- Pode abrir um chamado
+- Pode consultar um chamado que criou
+- Pode acompanhar o status daquele chamado,bem como o técnico responsável pelo atendimento
+- Pode se comunicar com o técnico responsável através do chat
+
+## Administrador - técnico
+- Pode abrir um chamado
+- Pode selecionar um chamado criado pelo usuário comum
+- Pode consultar os chamado em aberto (sem técnico responsável ainda)
+- Pode consultar os chamados globais - todos os chamados cadastrados no sistema, independente de quem seja o técnico responsável
+- Manipular um chamado - aleterar status, deletar chamado, transferir chamado para outro técnico
+- comunicar com o usuário por meio do chat
+
+## Características gerais do sistema
+- Sistema de Login
+- Cadastro de usuários ainda não implementado
+- Sistema de filtragem e paginação (precisando de reparos no código)
